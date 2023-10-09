@@ -8,7 +8,7 @@ With ultra-wideband (UWB) technology, objects can be located with an accuracy of
 
 Within omlox core zone, Coriva is the solution module for modern real-time-loacting-system (RTLS) infrastructure from TRUMPF: Fixed CorivaSatellites communicate with mobile CorivaTags. The locating data is then computed by the powerful and flexible locating software CorivaEngine , which applications can access. Paving the way to modern and transparent goods and logistics flows!
 
-Here at our github you'll find:
+**Here at our github you'll find:**
 <ul>
 <li>Setup information for our <a href="https://github.com/SimonTestTTT/indoor-routing-service" target="_blank">Indoor-Routing-Service</a></li>
 </ul>
