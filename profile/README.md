@@ -16,7 +16,7 @@ Within omlox core zone, Coriva is the solution module for modern real-time-loact
 For further information about us and our products please take a look at our <a href="https://www.trumpf.com/en_GB/products/real-time-localisation/" target="_blank">homepage</a>. 
 In case you are new to indoor tracking, watch this <a href="https://www.youtube.com/watch?v=Nf7ij-APoqE" target="_blank">introduction video</a> of a reference installation.
 
-Contact: XXX@trumpf.com 
+Contact: ttt_github@trumpf.com  
 <!--
 
 **Here are some ideas to get you started:**
